@@ -1,0 +1,1 @@
+streamlit run st_app.py --server.port 41069 --server.address 0.0.0.0
