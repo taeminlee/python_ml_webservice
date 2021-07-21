@@ -4,7 +4,7 @@ Simple ways to create a web service with Python.
 
 ## introduction
 
-- [ppt](https://github.com/taeminlee/python_ml_webservice/raw/master/20210401 webservice.md)
+- [ppt]("https://github.com/taeminlee/python_ml_webservice/raw/master/20210401 webservice.pptx")
 
 ### API server (swagger UI)
 
